@@ -1,0 +1,24 @@
+{
+  "name": "SQL-Setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danlgrigg/SQL-Setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danlgrigg/SQL-Setup/issues"
+  },
+  "homepage": "https://github.com/danlgrigg/SQL-Setup#readme",
+  "dependencies": {
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.3"
+  }
+}
